@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/joaoelvas/udemy-docker-s7.svg?branch=develop)](https://travis-ci.org/joaoelvas/udemy-docker-s7)
+Develop [![Build Status](https://travis-ci.org/joaoelvas/udemy-docker-s7.svg?branch=develop)](https://travis-ci.org/joaoelvas/udemy-docker-s7)
 
-[![Build Status](https://travis-ci.org/joaoelvas/udemy-docker-s7.svg?branch=master)](https://travis-ci.org/joaoelvas/udemy-docker-s7)
+Master [![Build Status](https://travis-ci.org/joaoelvas/udemy-docker-s7.svg?branch=master)](https://travis-ci.org/joaoelvas/udemy-docker-s7)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
